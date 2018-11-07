@@ -9,7 +9,7 @@ Memodifikasi file `index.html` dari Tugas-2 masing-masing agar bila dibuka di *b
 ## Ilustrasi
 ![Ilustrasi Tugas 3](/IlustrasiTugas3.png)
 ## Batas Akhir Pengerjaan
-Kamis, 12 Desember 2018, 23.00 WIB
+Rabu, 12 Desember 2018, 23.00 WIB
 ## Referensi
 * [GL-Matrix](http://glmatrix.net/docs/)
 * [Computer Mouse Control on WebGL Application](https://www.tutorialspoint.com/webgl/webgl_interactive_cube.htm)
